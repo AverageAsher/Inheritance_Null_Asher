@@ -1,0 +1,14 @@
+C:\Users\AshtonNull\OneDrive - Green Country Technology Center\Inheritance_Null_Asher\bin\Debug\net6.0\Inheritance_Null_Asher.exe
+C:\Users\AshtonNull\OneDrive - Green Country Technology Center\Inheritance_Null_Asher\bin\Debug\net6.0\Inheritance_Null_Asher.deps.json
+C:\Users\AshtonNull\OneDrive - Green Country Technology Center\Inheritance_Null_Asher\bin\Debug\net6.0\Inheritance_Null_Asher.runtimeconfig.json
+C:\Users\AshtonNull\OneDrive - Green Country Technology Center\Inheritance_Null_Asher\bin\Debug\net6.0\Inheritance_Null_Asher.dll
+C:\Users\AshtonNull\OneDrive - Green Country Technology Center\Inheritance_Null_Asher\bin\Debug\net6.0\Inheritance_Null_Asher.pdb
+C:\Users\AshtonNull\OneDrive - Green Country Technology Center\Inheritance_Null_Asher\obj\Debug\net6.0\Inheritance_Null_Asher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AshtonNull\OneDrive - Green Country Technology Center\Inheritance_Null_Asher\obj\Debug\net6.0\Inheritance_Null_Asher.AssemblyInfoInputs.cache
+C:\Users\AshtonNull\OneDrive - Green Country Technology Center\Inheritance_Null_Asher\obj\Debug\net6.0\Inheritance_Null_Asher.AssemblyInfo.cs
+C:\Users\AshtonNull\OneDrive - Green Country Technology Center\Inheritance_Null_Asher\obj\Debug\net6.0\Inheritance_Null_Asher.csproj.CoreCompileInputs.cache
+C:\Users\AshtonNull\OneDrive - Green Country Technology Center\Inheritance_Null_Asher\obj\Debug\net6.0\Inheritance_Null_Asher.dll
+C:\Users\AshtonNull\OneDrive - Green Country Technology Center\Inheritance_Null_Asher\obj\Debug\net6.0\refint\Inheritance_Null_Asher.dll
+C:\Users\AshtonNull\OneDrive - Green Country Technology Center\Inheritance_Null_Asher\obj\Debug\net6.0\Inheritance_Null_Asher.pdb
+C:\Users\AshtonNull\OneDrive - Green Country Technology Center\Inheritance_Null_Asher\obj\Debug\net6.0\Inheritance_Null_Asher.genruntimeconfig.cache
+C:\Users\AshtonNull\OneDrive - Green Country Technology Center\Inheritance_Null_Asher\obj\Debug\net6.0\ref\Inheritance_Null_Asher.dll

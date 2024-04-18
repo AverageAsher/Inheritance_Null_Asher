@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Inheritance_Null_Asher/1.0.0": {
+        "runtime": {
+          "Inheritance_Null_Asher.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Inheritance_Null_Asher/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
